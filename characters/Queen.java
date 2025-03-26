@@ -1,5 +1,9 @@
 package characters;
 
-public class Queen {
+public class Queen extends Character {
+
+  public Queen() {
+    super("queen");
+  }
 
 }

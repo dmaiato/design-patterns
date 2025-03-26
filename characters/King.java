@@ -1,5 +1,9 @@
 package characters;
 
-public class King {
+public class King extends Character {
+
+  public King() {
+    super("king");
+  }
 
 }
