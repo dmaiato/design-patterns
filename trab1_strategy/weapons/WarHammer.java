@@ -1,6 +1,6 @@
-package weapons;
+package trab1_strategy.weapons;
 
-import weapons.behaviours.Blunt;
+import trab1_strategy.weapons.behaviours.Blunt;
 
 public class WarHammer extends Weapon {
 
