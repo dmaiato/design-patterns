@@ -78,7 +78,7 @@ public class Main {
           System.out.println("5. WarHammer");
           System.out.print("Choose a weapon: ");
           Weapon weapon = weaponMap.get(Integer.parseInt(scanner.nextLine()));
-          
+
           System.out.println("\n-----------------------");
 
           player.pickupWeapon(weapon);
